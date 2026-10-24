@@ -1,6 +1,6 @@
 #!/bin/bash
 
-START_TIME=$(date +%)
+START_TIME=$(date +%s)
 echo " Script started execution at: $START_TIME "
 
 sleep 10
